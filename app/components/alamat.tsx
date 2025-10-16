@@ -7,6 +7,7 @@ export default function info() {
     city: "",
     state: "",
     postcode: "",
+    country: "",
   });
 
   const randomuserapi = async () => {
